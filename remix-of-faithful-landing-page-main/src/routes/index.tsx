@@ -100,7 +100,7 @@ export function Index() {
             <Bell size={17} aria-hidden="true" /> Christmas CashApp Reward
           </div>
           <p className="credit-caption">CASHAPP CREDIT</p>
-          <div className="reward-amount">$100</div>
+          <div className="reward-amount">100</div>
           <p className="reward-description">
             Treat yourself this Christmas — a <strong>free $100 CashApp credit</strong>, unlocked in about two minutes.
           </p>
