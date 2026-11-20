@@ -158,11 +158,16 @@ export function Index() {
                   </div>
                   <strong className="offer-reward-amount">$100</strong>
                 </div>
-                <div className="offer-download">
-                  <Gift aria-hidden="true" />
-                  Free download on the App Store
-                </div>
-              </div>
+
+                <a
+  className="offer-download"
+  href={tapkrUrl}
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <Gift aria-hidden="true" />
+  Free download on the App Store
+</a>
 
               <ol className="offer-steps">
                 <li>
