@@ -168,6 +168,7 @@ export function Index() {
   <Gift aria-hidden="true" />
   Free download on the App Store
 </a>
+                 </div>
 
               <ol className="offer-steps">
                 <li>
